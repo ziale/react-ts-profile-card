@@ -1,0 +1,19 @@
+{
+  "name": "Henry Doe",
+  "age": "26",
+  "address":"Pehaybourne",
+  "data": [
+    {
+      "value": 879307,
+      "display": "Likes"
+    },
+    {
+      "value": 17523,
+      "display": "Followers"
+    },
+    {
+      "value": 4536,
+      "display": "Photos"
+    }
+  ]
+}
